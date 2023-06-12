@@ -2,7 +2,8 @@
 
 #### 介绍
 
-fe 个人知识库，供个人学习使用
+- fe 个人知识库，供个人学习使用
+- 在 [我的 gitee](https://gitee.com/yujiayue123/fe_knowledge_base) 和 [我的 github](https://github.com/yujiayue123/fe_knowledge_base) 各备一份
 
 #### 备注
 
